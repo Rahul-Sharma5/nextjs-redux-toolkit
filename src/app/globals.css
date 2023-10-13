@@ -1,0 +1,43 @@
+.main-heading{
+    text-align: center;
+    color: rgb(91, 26, 222);
+    shape-outside: black;
+}
+.add-user{
+    height: 200px;
+    padding: 10px;
+    border: 1px solid red;
+    padding-left: 50px;
+}
+
+.display-user{
+    height: 200px;
+    padding: 10px;
+    margin-top: 10px;
+    padding-left: 50px;
+    border: 1px solid rgb(13, 0, 255);
+    overflow: scroll;
+}
+
+.add-user-input{
+    width: 250px;
+    height: 35px;
+    display: block;
+}
+
+.add-user-btn{
+    width: 250px;
+    height: 35px;
+    display: block;
+    margin-top: 10px;
+}
+
+.user-item{
+    background-color: skyblue;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
